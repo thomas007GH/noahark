@@ -1,24 +1,27 @@
-Bitcoin Core integration/staging tree
+Noahark(NHK) Coin - Made for Protect & Rescue the World Future crisis.
 =====================================
 
-https://bitcoincore.org
+Website Coming soon.. We are working on it.
 
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+We like to bring up this blockchain for varius ideas, Half of charity and half for well beeing. 
+Lets join the hand together humanity.
 
-What is Bitcoin Core?
+We walue the efferort made by Satoshi Nakamoto to give us the brillent Idea to fuel up the up coming world with a non brakable system.
+Which can help lots of good wills.
+
+What is Noahark (NHK) Core?
 ---------------------
 
-Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
+Noahark (NHK) Core connects to the Noahark(NHK) peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+Further information about Noahark(NHK) Core is available in the [doc folder](/doc).
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Noahark(NHK) Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
